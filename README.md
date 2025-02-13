@@ -11,7 +11,7 @@
 🌱 &nbsp;I'm focused on expanding my knowledge in **Artificial Intelligence, Web Development, and Cloud Technologies**.  
 ✍️ &nbsp;Outside of coding, I have a strong background in **graphic design** and UI/UX solutions.  
 💬 &nbsp;Let's connect for tech discussions, collaborations, or mentorship opportunities!  
-✉️ &nbsp;You can reach me at **bryanmarcgames@gmail.com** – I'll try to respond as soon as possible.  
+✉️ &nbsp;You can reach me at **bmarcenlinea@gmail.com** – I'll try to respond as soon as possible.  
 📄 &nbsp;Check out my [GitHub](https://github.com/BryanMarc01) and [LinkedIn](https://www.linkedin.com/in/bryanmarc/) for more about my work!
 
 ---
@@ -89,7 +89,7 @@
 <a href="https://www.instagram.com/bryanmarc_/">
   <img src="https://img.shields.io/badge/-bryanmarc_-E4405F?style=flat&logo=Instagram&logoColor=white"/>
 </a>
-<a href="mailto:bryanmarcgames@gmail.com"><img src="https://img.shields.io/badge/-Bryanmarcgames-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:bmarcenlinea@gmail.com"><img src="https://img.shields.io/badge/-Bryanmarcgames-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/BryanMarc01"><img src="https://img.shields.io/badge/-BryanMarc01-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 </p>
 
