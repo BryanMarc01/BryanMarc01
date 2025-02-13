@@ -56,20 +56,7 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/BryanMarc01">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BryanMarc01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/BryanMarc01">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BryanMarc01&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BryanMarc01&theme=dark&hide_border=true"/>
-</p>
 
 ### 🎖 &nbsp;My Badges 
 
