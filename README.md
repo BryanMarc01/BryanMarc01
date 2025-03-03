@@ -12,7 +12,7 @@
 ✍️ &nbsp;Outside of coding, I have a strong background in **graphic design** and UI/UX solutions.  
 💬 &nbsp;Let's connect for tech discussions, collaborations, or mentorship opportunities!  
 ✉️ &nbsp;You can reach me at **bmarcenlinea@gmail.com** – I'll try to respond as soon as possible.  
-📄 &nbsp;Check out my [GitHub](https://github.com/BryanMarc01) and [LinkedIn](https://www.linkedin.com/in/bryanmarc/) for more about my work!
+📄 &nbsp;Check out my [GitHub](https://github.com/BryanMarc01), [LinkedIn](https://www.linkedin.com/in/bryanmarc/)  and my [Portfolio](https://portfolio-bryanmarc.vercel.app/) for more about my work!
 
 ---
 
